@@ -1,5 +1,0 @@
-AuthUserFile /home/lrzjwuk/dev/documents/.htpasswd
-AuthGroupFile devnull
-AuthName Accès Restreint
-AuthType Basic
-require valid-user
